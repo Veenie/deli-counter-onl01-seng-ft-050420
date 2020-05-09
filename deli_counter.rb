@@ -25,6 +25,6 @@ end
 def take_a_number (katz_deli, line)
   
   puts "Welcome, #{katz_deli}, you are number #{line} in line."
-  end
+  
 end
 
