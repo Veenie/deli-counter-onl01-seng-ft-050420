@@ -22,9 +22,9 @@ def line(katz_deli)
 
 end
 
-def take_a_number (katz_deli, line)
+def take_a_number (katz_deli, name)
   
-  puts "Welcome, #{katz_deli}, you are number #{line} in line."
+  puts "Welcome, #{name}, you are number #{katz_deli} in line."
   
 end
 
